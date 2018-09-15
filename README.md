@@ -7,6 +7,9 @@ script written by python to check if the access token is used in Facebook to aut
 +           WHATSAPP : +201006698345            +
 + please Dont use this script in spam (illegal) +
 +    FB : www.facebook.com/bassem.beso.18659    +
+
+
+
 +++++++++++++++++++++++++++++++++++++++++++++++++
 
 
@@ -15,6 +18,11 @@ script written by python to check if the access token is used in Facebook to aut
 
 https://github.com/beneameenth/access_token
 cd access_token
+
+
+
+++++++++++++++++++++++++++++++++++++++
+
 
 [INSTALL REQUIREMENTS]
 
@@ -28,6 +36,10 @@ IN WIN OR TERMUX :
 
 apt-get install python3
 pip install -r requirements
+
+
+++++++++++++++++++++++++++++++++++++++++
+
 
 [RUNNING]
 
