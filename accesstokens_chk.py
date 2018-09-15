@@ -14,7 +14,7 @@ else:
 
 
 print(R + '''+++++++++++++++++++++++++++++++++++++++++++++++++
-+                 SMTP FINDER                   +
++             access token master               +
 +                CODER : BEN_TH                 +
 +           WHATSAPP : +201006698345            +
 + please Dont use this script in spam (illegal) +
