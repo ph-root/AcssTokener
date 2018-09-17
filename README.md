@@ -1,7 +1,7 @@
-# proxy-GR
-+ Massive Proxy Grabber Written by pyton 
-+ This bot We grab proxies from everywhere so you can use them.
-+ this bot can grab more than 300K fresh proxies only in 2 min.
+# access_token
++ access tokens checker 
++ this bot checks if the access token is live or dead 
++ you can search about 'what's the access token of facebook'
 
 # INSTALLATION
 
