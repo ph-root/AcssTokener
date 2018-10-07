@@ -30,6 +30,5 @@ IN WIN OR TERMUX:
 
 
 # CONTACT ME :
-+           CODER : BEN_TH                 
-+           WHATSAPP : +201006698345         
++           CODER : BEN_TH                  
 +           FB : www.facebook.com/bassem.beso.18659  
