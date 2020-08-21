@@ -16,7 +16,6 @@ else:
 print(R + '''+++++++++++++++++++++++++++++++++++++++++++++++++
 +             access token master               +
 +                CODER : BEN_TH                 +
-+           WHATSAPP : +201006698345            +
 + please Dont use this script in spam (illegal) +
 +    FB : www.facebook.com/bassem.beso.18659    +
 +++++++++++++++++++++++++++++++++++++++++++++++++''')
